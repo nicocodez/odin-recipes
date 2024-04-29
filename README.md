@@ -1,0 +1,1 @@
+This project is to create a very simple recipe website. I will demonstrate my newly-learned knowledge of HMTL to create a basic website with headings, paragraphs, images, lists, links, etc. 
